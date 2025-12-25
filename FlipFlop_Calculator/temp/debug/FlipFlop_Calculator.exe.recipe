@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\peihu\OneDrive\Desktop\FlipFlop_Calculator\FlipFlop_Calculator\temp\debug\FlipFlop_Calculator.exe</FullPath>
+=======
+      <FullPath>C:\Users\jeiyi\Desktop\FlipFlop_Calculator\FlipFlop_Calculator\temp\debug\FlipFlop_Calculator.exe</FullPath>
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

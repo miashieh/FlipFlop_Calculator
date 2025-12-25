@@ -1,8 +1,24 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\",
   "Documents": [
     {
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|solutionrelative:source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\",
+  "Documents": [
+    {
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
       "AbsoluteMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|solutionrelative:source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -12,7 +28,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+<<<<<<< HEAD
       "RelativeMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|solutionrelative:include\\flipflop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+>>>>>>> 21b26538a3789658a92afd3a8f85bbc9c07e88ba
+      "RelativeMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|solutionrelative:include\\flipflop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{580798EC-12DE-40A9-96EE-341FA2A9FFF8}|FlipFlop_Calculator\\FlipFlop_Calculator.vcxproj|solutionrelative:source\\flipflop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +51,44 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "flipflop.h",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeDocumentMoniker": "include\\flipflop.h",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeToolTip": "include\\flipflop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T07:37:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "flipflop.c",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeDocumentMoniker": "source\\flipflop.c",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeToolTip": "source\\flipflop.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-25T07:36:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
+              "RelativeDocumentMoniker": "source\\Main.c",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
+              "RelativeToolTip": "source\\Main.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+=======
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
               "DocumentIndex": 2,
               "Title": "flipflop.h",
               "DocumentMoniker": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
@@ -34,8 +97,12 @@
               "RelativeToolTip": "include\\flipflop.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+<<<<<<< HEAD
               "WhenOpened": "2025-12-25T07:37:50.336Z",
               "IsPinned": true
+=======
+              "WhenOpened": "2025-12-25T07:37:50.336Z"
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
             },
             {
               "$type": "Document",
@@ -45,6 +112,7 @@
               "RelativeDocumentMoniker": "source\\flipflop.c",
               "ToolTip": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
               "RelativeToolTip": "source\\flipflop.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-25T07:36:49.555Z",
@@ -60,6 +128,32 @@
               "RelativeToolTip": "source\\Main.c*",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+>>>>>>> 21b26538a3789658a92afd3a8f85bbc9c07e88ba
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-25T07:35:23.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "flipflop.c",
+              "DocumentMoniker": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeDocumentMoniker": "source\\flipflop.c",
+              "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeToolTip": "source\\flipflop.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+=======
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
+              "RelativeDocumentMoniker": "source\\Main.c",
+              "ToolTip": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
+              "RelativeToolTip": "source\\Main.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+>>>>>>> 072f6714f5e350e4f739d19d527ec159820e787d
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
               "WhenOpened": "2025-12-25T07:35:23.936Z",
               "EditorCaption": ""
             }
