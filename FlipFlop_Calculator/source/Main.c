@@ -7,13 +7,18 @@ int main() {
     FILE* fptr; // 用於檔案紀錄 [cite: 227]
 
     do {
+        z:
         printf("\n--- 正反器計算機 ---\n");
         printf("1. SR  2. JK  3. D  4. T  0. 結束\n");
         printf("請選擇: ");
 
         scanf("%d", &choice); //[cite:10]
 
-            if (choice == 0) break;
+        if (choice == 0) break;
+        if (choice < 0 || choice > 4) {
+                printf("無效的選擇，請重新輸入。\n");
+                goto z;
+            }
 
         printf("輸入當前狀態 Qn (0 或 1): ");
         scanf("%d", &qn);
@@ -22,9 +27,15 @@ int main() {
         switch (choice) {
         case 1: // SR 正反器 [cite: 11, 227]
         {
+           
             int s, r;
+            A:
             printf("輸入 S 與 R (用空格隔開, 如 '1 0'): ");
             scanf("%d %d", &s, &r);
+            if (s == 1 && r == 1) {
+                printf("SR正反器輸入'1 1'為禁態，請重新輸入\n\n");
+                goto A;
+            }
             calc_sr(s, r, qn, &next_q); // 傳入 next_q 的位址 (指標應用) 
             break;
         }

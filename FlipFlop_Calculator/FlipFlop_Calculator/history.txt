@@ -1,0 +1,5 @@
+選擇: 1, Qn: 0, Next Q: 1
+選擇: 1, Qn: 0, Next Q: 1
+選擇: 1, Qn: 0, Next Q: -1
+選擇: 2, Qn: 5, Next Q: 0
+選擇: 1, Qn: 1, Next Q: -1

@@ -34,7 +34,8 @@
               "RelativeToolTip": "include\\flipflop.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-25T07:37:50.336Z"
+              "WhenOpened": "2025-12-25T07:37:50.336Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "source\\flipflop.c",
               "ToolTip": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
               "RelativeToolTip": "source\\flipflop.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-25T07:36:49.555Z",
               "EditorCaption": ""
@@ -57,7 +58,7 @@
               "RelativeDocumentMoniker": "source\\Main.c",
               "ToolTip": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
               "RelativeToolTip": "source\\Main.c",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-25T07:35:23.936Z",
               "EditorCaption": ""
