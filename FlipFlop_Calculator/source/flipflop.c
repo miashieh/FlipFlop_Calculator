@@ -16,4 +16,13 @@ void calc_jk(int j, int k, int qn, int* next_q) {
     else *next_q = !qn; // 反相 (Toggle)
 }
 
-// D 與 T 正反器可由其他組員在各自的分支實作 [cite: 20, 137]
+// D 正反器邏輯：下一狀態等於輸入 D
+void calc_d(int d, int qn, int* next_q) {
+    *next_q = d;
+}
+
+// T 正反器邏輯：T=1 時反相，T=0 時保持
+void calc_t(int t, int qn, int* next_q) {
+    if (t == 0) *next_q = qn;
+    else *next_q = !qn;
+}
