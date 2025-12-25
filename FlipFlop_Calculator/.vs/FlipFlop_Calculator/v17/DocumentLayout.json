@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flipflop.c",
+              "DocumentMoniker": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeDocumentMoniker": "source\\flipflop.c",
+              "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeToolTip": "source\\flipflop.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-25T07:36:49.555Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -47,19 +60,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-25T07:37:50.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "flipflop.c",
-              "DocumentMoniker": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
-              "RelativeDocumentMoniker": "source\\flipflop.c",
-              "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
-              "RelativeToolTip": "source\\flipflop.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-25T07:36:49.555Z",
-              "EditorCaption": ""
             }
           ]
         }

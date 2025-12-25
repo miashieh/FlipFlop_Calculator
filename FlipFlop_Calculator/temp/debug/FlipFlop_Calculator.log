@@ -1,4 +1,5 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  Main.c
+  flipflop.c
+  LINK : 最後的累加連結找不到或未建置 ..\temp\debug\FlipFlop_Calculator.exe，正在執行完整連結
   FlipFlop_Calculator.vcxproj -> D:\MYFILES\Documents\HYC\北科\程式期末專題\FlipFlop_Calculator\FlipFlop_Calculator\temp\debug\FlipFlop_Calculator.exe
