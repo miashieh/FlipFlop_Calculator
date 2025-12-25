@@ -1,4 +1,4 @@
-#include "flipflop.h"
+#include "../include/flipflop.h"
 
 // SR ¥¿¤Ï¾¹ÅÞ¿è [cite: 228]
 void calc_sr(int s, int r, int qn, int* next_q) {
