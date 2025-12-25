@@ -9,7 +9,7 @@ int main() {
         printf("\n--- 正反器計算機 ---\n");
         printf("1. SR  2. JK  3. D  4. T  0. 結束\n");
         printf("請選擇: ");
-        scanf("%d", &choice); [cite:10]
+        scanf("%d", &choice); [cite:10] ;
 
             if (choice == 0) break;
 
