@@ -1,8 +1,19 @@
 <<<<<<< HEAD
+選擇: 1, Qn: 0, Next Q: 1
+選擇: 1, Qn: 0, Next Q: 1
+選擇: 1, Qn: 0, Next Q: -1
+選擇: 2, Qn: 5, Next Q: 0
+選擇: 1, Qn: 1, Next Q: -1
+=======
+<<<<<<< HEAD
 選擇: 1, Qn: 1, Next Q: 0
 選擇: 2, Qn: 0, Next Q: 1
 =======
 選擇: 1, Qn: 0, Next Q: 1
 >>>>>>> 072f6714f5e350e4f739d19d527ec159820e787d
+<<<<<<< HEAD
 選擇: 1, Qn: 1, Next Q: -1
 選擇: 1, Qn: 0, Next Q: 1
+=======
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
+>>>>>>> 9eb445fa15069c40aae50eed837ea2ffb145c8f1

@@ -7,7 +7,7 @@ int main() {
     FILE* fptr; // 用於檔案紀錄 [cite: 227]
 
     do {
-    z:
+        z:
         printf("\n--- 正反器計算機 ---\n");
         printf("1. SR  2. JK  3. D  4. T  0. 結束\n");
         printf("請選擇: ");
@@ -16,9 +16,9 @@ int main() {
 
         if (choice == 0) break;
         if (choice < 0 || choice > 4) {
-            printf("無效的選擇，請重新輸入。\n");
-            goto z;
-        }
+                printf("無效的選擇，請重新輸入。\n");
+                goto z;
+            }
 
         printf("輸入當前狀態 Qn (0 或 1): ");
         scanf("%d", &qn);
@@ -29,7 +29,7 @@ int main() {
         {
 
             int s, r;
-        A:
+            A:
             printf("輸入 S 與 R (用空格隔開, 如 '1 0'): ");
             scanf("%d %d", &s, &r);
             if (s == 1 && r == 1) {

@@ -26,13 +26,74 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+              "Title": "flipflop.h",
+              "DocumentMoniker": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeDocumentMoniker": "include\\flipflop.h",
+              "ToolTip": "C:\\Users\\peihu\\OneDrive\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeToolTip": "include\\flipflop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T07:37:50.336Z",
+              "IsPinned": true
+=======
+              "DocumentIndex": 0,
+>>>>>>> 9eb445fa15069c40aae50eed837ea2ffb145c8f1
               "Title": "flipflop.c",
               "DocumentMoniker": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
               "RelativeDocumentMoniker": "source\\flipflop.c",
               "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
               "RelativeToolTip": "source\\flipflop.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-25T07:36:49.555Z",
+              "EditorCaption": ""
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "flipflop.h",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeDocumentMoniker": "include\\flipflop.h",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeToolTip": "include\\flipflop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T07:37:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "flipflop.h",
+              "DocumentMoniker": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeDocumentMoniker": "include\\flipflop.h",
+              "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\include\\flipflop.h",
+              "RelativeToolTip": "include\\flipflop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-25T07:37:50.336Z"
+=======
+              "Title": "flipflop.c",
+              "DocumentMoniker": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeDocumentMoniker": "source\\flipflop.c",
+              "ToolTip": "C:\\Users\\jeiyi\\Desktop\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\flipflop.c",
+              "RelativeToolTip": "source\\flipflop.c",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
+>>>>>>> 9eb445fa15069c40aae50eed837ea2ffb145c8f1
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-25T07:36:49.555Z",
               "EditorCaption": ""
@@ -45,7 +106,15 @@
               "RelativeDocumentMoniker": "source\\Main.c",
               "ToolTip": "D:\\MYFILES\\Documents\\HYC\\\u5317\u79D1\\\u7A0B\u5F0F\u671F\u672B\u5C08\u984C\\FlipFlop_Calculator\\FlipFlop_Calculator\\source\\Main.c",
               "RelativeToolTip": "source\\Main.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+=======
+<<<<<<< HEAD
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+>>>>>>> 51ace8f8b1323916b67ec315e46d95a1e5349b75
+>>>>>>> 9eb445fa15069c40aae50eed837ea2ffb145c8f1
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-25T07:35:23.936Z",
               "EditorCaption": ""
